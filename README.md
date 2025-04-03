@@ -80,10 +80,5 @@ vvp cla_tb
 
 ---
 
-## License
-This project is released under the **MIT License**.
-
----
-
 ## Author
 Developed by **Swayam**.
