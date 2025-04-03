@@ -19,6 +19,6 @@ module cla_adder_subtractor (
     assign C[3] = G[2] | (P[2] & C[2]);
     assign Cout = G[3] | (P[3] & C[3]);  // Final carry out
 
-    assign S = P ^ C;  // Sum/Difference: S_i = P_i ? C_i
+    assign S = P ^ C;  // Sum/Difference
 
 endmodule
